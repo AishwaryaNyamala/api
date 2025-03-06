@@ -1,0 +1,192 @@
+[  
+    {
+        "tag": "hi",
+        "patterns": [
+            "Hi",
+            "Hi there",
+            "Hi!"
+        ],
+        "responses": [
+            "Hi!  I'm your TechCertify Course Assistant. I can recommend the best courses for you. What job are you interested in?"
+           
+        ]
+    },
+    {
+        "tag": "hello",
+        "patterns": [
+            "Hello there",
+            "hello!"
+        ],
+        "responses": [
+            "I'm your TechCertify Course Assistant. I can recommend the best courses for you. What job are you interested in?",
+            "Hello! Feel free to ask me anything."
+        ]
+    },
+    {
+        "tag": "hey",
+        "patterns": [
+            "Hey",
+            "Hey there",
+            "Hey!"
+        ],
+        "responses": [
+            "Hey! What’s on your mind?",
+            "Hello! How can I support you today?"
+        ]
+    },
+    {
+        "tag": "howdy",
+        "patterns": [
+            "Howdy",
+            "Howdy there"
+        ],
+        "responses": [
+            "Howdy! How can I make your day better?",
+            "Hello there! What can I do for you?"
+        ]
+    },
+    {
+        "tag": "greetings",
+        "patterns": [
+            "Greetings",
+            "Greetings!"
+        ],
+        "responses": [
+            "Greetings! How can I assist you today?",
+            "Hello! Let me know how I can help you."
+        ]
+    }, 
+    {
+        "tag": " I want to become a Software Developer",
+        "patterns": [
+            "What skills do I need to become a Software Engineer?",
+            "How do I start my journey as a Software Developer?",
+            "What are the best courses for a beginner in software development?"
+        ],
+        "responses": [
+            " Thats a great choice!  For software development, I recommend these courses:  Java Programming (For backend development)  Python Programming (For versatile applications) C++ Programming (For performance-critical software)"
+
+            
+        ]
+    },
+    {
+        "tag": " I want to learn Java Programming",
+        "patterns": [
+            "How can I start learning Java?",
+            "Suggest a good Java course for beginners",
+            "Where should I begin with Java programming?"
+        ],
+        "responses": [
+            "Excellent! The Java Programming course will teach you:1. Object-Oriented Programming (OOP) 2.Java Web Applications  3.Android App Development using Java",
+            "Excellent! The Java Programming course will teach you:1. Object-Oriented Programming (OOP) 2.Java Web Applications  3.Android App Development using Java ",
+            "Excellent! The Java Programming course will teach you:1. Object-Oriented Programming (OOP) 2.Java Web Applications  3.Android App Development using Java"
+        ]
+    },
+    {
+        "tag": "I want to become a Cyber Security Analyst.",
+        "patterns": [
+            "cyber security analyst",
+            "In field of cyber security"
+            
+        ],
+        "responses": [
+            " Cyber Security is in high demand! Here are the best courses for you: 1. Cyber Security (Learn ethical hacking and security practices) 2.Cloud Computing (Understand cloud security risks)"
+
+        ]
+    },
+    {
+        "tag": " I want to become a Data analyst",
+        "patterns": [
+            "data analyst",
+            "In the field of data analyst"
+            
+        ],
+        "responses": [
+            "Data Science is a top career choice! Here are the best courses for you: 1.Python Programming (For data analysis and ML) 2. Data Analysis (For working with large datasets) 3.AI & ML (For machine learning models)"
+            
+        ]
+    },
+    {
+        "tag": " How can I get a certification?",
+        "patterns": [
+            "Is there any certification courses",
+            "recommand some certifications"
+        
+        ],
+        "responses": [
+            "You can get a free certification by completing our recommended courses. Some options:1.Web Development FreeCodeCamp 2.Java Programming Coursera 3.Cloud Computing AWS Free Training"
+            
+        ]
+    },
+    {
+        "tag": "The app is not working properly. What should I do?",
+        "patterns": [
+            "The app is not working properly. What should I do?",
+            "The app is not working properly. What should I do?"
+        ],
+        "responses": [
+            "Try these quick fixes: 1. Restart the app. 2. Clear the cache in Settings > Apps > TechCertify > Clear Cache. 3.Check your internet connection."
+            
+        ]
+    },
+    {
+        "tag": " I’m getting an error while opening a course",
+        "patterns": [
+            " I’m getting an error while opening a course",
+            " I’m getting an error while opening a course"
+        ],
+        "responses": [
+            "Sorry about that! Try refreshing the page or restarting the app. If the problem continues, let us know, and our team will fix it."
+           
+        ]
+    },
+    {
+        "tag": " I want to become a Data Scientist",
+        "patterns": [
+            " I want to become a Data Scientist",
+            "data scientist"
+        ],
+        "responses": [
+            " Awesome! Python is a great choice for Data Science. Here are some recommended courses for you: 1. Python Programming  Learn Python fundamentals and scripting. 2.Data Analysis Use Python for analyzing and visualizing data. 3. AI & ML  Apply Python for Machine Learning and AI models."
+        
+        ]
+    },
+    {
+        "tag": " I want to do Full Stack Development",
+        "patterns": [
+            " I want to do Full Stack Development",
+            "full stack development ",
+            "web development"
+        ],
+        "responses": [
+            "Great! Here are some courses to get started: 1.Web Development  Learn HTML, CSS, JavaScript for frontend & backend.c2.Cloud Computing Deploy and scale websites using cloud platforms. 3.Java Programming Build dynamic websites using Java for backend development."
+           
+        ]
+    },
+    {
+        "tag": " I want to do Game Development.",
+        "patterns": [
+            " I want to do Game Development.",
+            "Game development"
+        ],
+        "responses": [
+            " Awesome! Here are some courses for you: 1.C++ Programming Master C++ fundamentals for game engines.2. AI & ML Learn AI concepts for game development. 3.Cloud Computing Store and manage online game data.",
+            "Choosing the best smartphone depends on your needs—consider factors like camera quality, performance, and battery life."
+        ]
+    },
+    {
+        "tag": "devops",
+        "patterns": [
+            "how to learn devops completely",
+            "devops"
+        ],
+        "responses": [
+            "1.DevOps Learn CI/CD, Docker, Kubernetes, and automation 2.Cloud Computing Understand cloud infrastructure and deployment 3.C++ Programming Useful for system-level automation in DevOps"
+          
+        ]
+    }
+   
+]
+
+
+
